@@ -1,0 +1,34 @@
+Description,Scientific Name,Max Score,Total Score,Query Cover,E value,Per. ident,Acc. Len,Accession  
+"Chain A, Interleukin-2 [Homo sapiens]",Homo sapiens,266,266,88%,2e-93,97.81,139,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/8SOW_A?report=genbank&log$=prottop&blast_rank=1&RID=SERGP3GK014"",""8SOW_A"")"
+"Chain C, Interleukin-2 [Homo sapiens]",Homo sapiens,264,264,87%,2e-92,98.52,134,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/6YE3_C?report=genbank&log$=prottop&blast_rank=2&RID=SERGP3GK014"",""6YE3_C"")"
+"Chain A, interleukin-2 [Homo sapiens]",Homo sapiens,264,264,87%,2e-92,98.52,133,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/1M47_A?report=genbank&log$=prottop&blast_rank=3&RID=SERGP3GK014"",""1M47_A"")"
+"Chain A, Interleukin-2 [Homo sapiens]",Homo sapiens,262,262,86%,1e-91,98.51,132,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/1PY2_A?report=genbank&log$=prottop&blast_rank=4&RID=SERGP3GK014"",""1PY2_A"")"
+"Chain D, Interleukin-2 [Homo sapiens]",Homo sapiens,261,261,87%,2e-91,97.78,133,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/2ERJ_D?report=genbank&log$=prottop&blast_rank=5&RID=SERGP3GK014"",""2ERJ_D"")"
+"Chain A, INTERLEUKIN-2 [Homo sapiens]",Homo sapiens,261,261,87%,3e-91,97.78,133,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/1IRL_A?report=genbank&log$=prottop&blast_rank=6&RID=SERGP3GK014"",""1IRL_A"")"
+"Chain A, Interleukin-2 [Homo sapiens]",Homo sapiens,260,260,86%,4e-91,97.76,132,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/1QVN_A?report=genbank&log$=prottop&blast_rank=7&RID=SERGP3GK014"",""1QVN_A"")"
+"Chain A, interleukin-2 [Homo sapiens]",Homo sapiens,259,259,87%,7e-91,97.78,133,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/1M4B_A?report=genbank&log$=prottop&blast_rank=8&RID=SERGP3GK014"",""1M4B_A"")"
+"Chain A, interleukin-2 [Homo sapiens]",Homo sapiens,259,259,87%,9e-91,97.78,133,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/1M4A_A?report=genbank&log$=prottop&blast_rank=9&RID=SERGP3GK014"",""1M4A_A"")"
+"Chain A, Interleukin-2 [Homo sapiens]",Homo sapiens,258,258,86%,2e-90,97.76,132,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/5LQB_A?report=genbank&log$=prottop&blast_rank=10&RID=SERGP3GK014"",""5LQB_A"")"
+"Chain A, Interleukin-2 [Homo sapiens]",Homo sapiens,258,258,87%,5e-90,97.04,133,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/7M2G_A?report=genbank&log$=prottop&blast_rank=11&RID=SERGP3GK014"",""7M2G_A"")"
+"Chain A, Interleukin-2 [Homo sapiens]",Homo sapiens,254,254,88%,8e-89,92.70,136,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/3QAZ_A?report=genbank&log$=prottop&blast_rank=12&RID=SERGP3GK014"",""3QAZ_A"")"
+"Chain A, Interleukin-2 [Homo sapiens]",Homo sapiens,254,254,85%,1e-88,97.73,130,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/4NEJ_A?report=genbank&log$=prottop&blast_rank=13&RID=SERGP3GK014"",""4NEJ_A"")"
+"Chain D, Interleukin-2 [Homo sapiens]",Homo sapiens,202,202,95%,1e-67,89.40,160,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/5M5E_D?report=genbank&log$=prottop&blast_rank=14&RID=SERGP3GK014"",""5M5E_D"")"
+"Chain A, Interleukin-2 [Homo sapiens]",Homo sapiens,197,197,87%,6e-66,93.33,134,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/7RAA_A?report=genbank&log$=prottop&blast_rank=15&RID=SERGP3GK014"",""7RAA_A"")"
+"Chain A, Interleukin-2 [Homo sapiens]",Homo sapiens,194,194,88%,1e-64,92.70,146,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/7ZMZ_A?report=genbank&log$=prottop&blast_rank=16&RID=SERGP3GK014"",""7ZMZ_A"")"
+"Chain A, Interleukin-2 [Homo sapiens]",Homo sapiens,166,166,87%,9e-54,83.70,132,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/7RA9_A?report=genbank&log$=prottop&blast_rank=17&RID=SERGP3GK014"",""7RA9_A"")"
+"Chain A, Interleukin-2,Interleukin-2 receptor subunit alpha [Homo sapiens]",Homo sapiens,118,207,94%,5e-33,96.67,303,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/6VWU_A?report=genbank&log$=prottop&blast_rank=18&RID=SERGP3GK014"",""6VWU_A"")"
+"Chain B, ANV419 light-chain [Homo sapiens]",Homo sapiens,110,197,70%,1e-29,92.86,355,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/8RY2_B?report=genbank&log$=prottop&blast_rank=19&RID=SERGP3GK014"",""8RY2_B"")"
+"Chain C, scFv [Homo sapiens]",Homo sapiens,45.1,45.1,14%,4e-06,100.00,275,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/7YIX_C?report=genbank&log$=prottop&blast_rank=20&RID=SERGP3GK014"",""7YIX_C"")"
+"Chain M, Interleukin-2,CD5 antigen-like [Homo sapiens]",Homo sapiens,45.1,45.1,14%,5e-06,100.00,359,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/8WYR_M?report=genbank&log$=prottop&blast_rank=21&RID=SERGP3GK014"",""8WYR_M"")"
+"Chain A, Interleukin-2,Isoform 1 of Immunoglobulin heavy constant mu [Homo sapiens]",Homo sapiens,45.1,45.1,14%,5e-06,100.00,403,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/8WYR_A?report=genbank&log$=prottop&blast_rank=22&RID=SERGP3GK014"",""8WYR_A"")"
+"Chain A, Interleukin-2,Immunoglobulin heavy constant alpha 1 [Homo sapiens]",Homo sapiens,44.3,44.3,14%,7e-06,100.00,291,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/6LX3_A?report=genbank&log$=prottop&blast_rank=23&RID=SERGP3GK014"",""6LX3_A"")"
+"Chain C, AR4A heavy chain [Homo sapiens]",Homo sapiens,43.5,43.5,13%,2e-05,100.00,298,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/8FSJ_C?report=genbank&log$=prottop&blast_rank=24&RID=SERGP3GK014"",""8FSJ_C"")"
+"Chain H, PG9.iGL Fab Heavy Chain [Homo sapiens]",Homo sapiens,43.1,43.1,13%,2e-05,100.00,260,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/7T76_H?report=genbank&log$=prottop&blast_rank=25&RID=SERGP3GK014"",""7T76_H"")"
+"Chain L, PG9.iGL Fab Light Chain [Homo sapiens]",Homo sapiens,43.1,43.1,13%,2e-05,100.00,264,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/7T76_L?report=genbank&log$=prottop&blast_rank=26&RID=SERGP3GK014"",""7T76_L"")"
+"Chain B, Beta-2-microglobulin,T-cell surface glycoprotein CD1c [Homo sapiens]",Homo sapiens,43.1,43.1,23%,2e-05,66.67,442,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/9QWJ_B?report=genbank&log$=prottop&blast_rank=27&RID=SERGP3GK014"",""9QWJ_B"")"
+
+
+
+		
+
+
